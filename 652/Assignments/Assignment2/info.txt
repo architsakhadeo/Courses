@@ -1,0 +1,8 @@
+THINGS TO DO
+
+
+2) Write the reason for choosing standard deviation
+3) Write about comparison between algorithms - with and without baseline
+5) Check code properly, comment the code
+6) Check if the saved policy works, check if the code generates similar results on training for those hyperparameters
+7) Package the files properly in a zip file
